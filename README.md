@@ -58,3 +58,9 @@ con la llama de la valentía y el deseo de proteger a su gente.
 - Año: 2024.
 
 https://es.ign.com/the-plucky-squire
+
+| Juego                         | Plataforma   | Copias |
+|-------------------------------|--------------|--------|
+| Sekiro Shadows Die Twice      | Steam        | 2      |
+| Resident Evil 4 REMAKE        | Steam        | 3      |
+| El Escudero Valiente          | Switch       | 1      |
